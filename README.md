@@ -6,7 +6,7 @@ Um site responsivo com fotos e design do Figma, podendo estilizar o site do seu 
 * HTML5
 * Css3
 
-## Agradecimentos 🫶
+# Agradecimentos 🫶
 * Rafaela Ballerini
 * Professor Alexandre
 
